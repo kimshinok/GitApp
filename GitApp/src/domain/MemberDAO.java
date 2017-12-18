@@ -12,4 +12,10 @@ public class MemberDAO {
 		return dao;
 	}
 
+	
+	public void insertMember() {
+		
+	}
+	
+	
 }
