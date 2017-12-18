@@ -1,6 +1,7 @@
 package domain;
 
 public class MemberVO {
+	
 	private String name;
 	private int age;
 	
