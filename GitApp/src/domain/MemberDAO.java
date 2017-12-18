@@ -1,6 +1,6 @@
-package domail;
+package domain;
 
-public clsss MemberDAO {
+public class MemberDAO {
 
 
 
