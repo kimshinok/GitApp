@@ -37,7 +37,7 @@ public class MemberVO {
 	}	
 
 	public String toString() {
-	  	System.out.println("name : " + name + ", age : " + age);			
+	  	return "name : " + name + ", age : " + age;			
 	}
 	
 	
