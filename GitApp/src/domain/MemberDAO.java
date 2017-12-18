@@ -11,5 +11,9 @@ public class MemberDAO {
 	public static MemberDAO getInstance() {
 		return dao;
 	}
+	
+	public MemberVO selectMemberById(String id) {
+		return null;
+	}
 
 }
