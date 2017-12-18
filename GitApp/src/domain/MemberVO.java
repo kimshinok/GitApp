@@ -36,4 +36,9 @@ public class MemberVO {
 		this.age = age;
 	}	
 
+	public String toString() {
+	  	System.out.println("name : " + name + ", age : " + age);			
+	}
+	
+	
 }
