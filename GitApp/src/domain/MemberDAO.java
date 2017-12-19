@@ -1,5 +1,7 @@
 package domain;
 
+import java.util.List;
+
 public class MemberDAO {
 
 	private static MemberDAO dao = new MemberDAO();
