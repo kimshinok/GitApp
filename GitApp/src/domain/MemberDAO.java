@@ -11,13 +11,13 @@ public class MemberDAO {
 	public static MemberDAO getInstance() {
 		return dao;
 	}
-	
-		
+
 	public void insertMember() {
-		
+
 	}
-	
-	
-	
-	
+
+	public MemberVO selectMemberById(String id) {
+		return null;
+	}
+
 }
