@@ -23,7 +23,4 @@ public class MemberDAO {
 		return new ArrayList();
 	}
 
-	public void updateMember() {
-		System.out.println("call updateMember!!");
-	}
 }
