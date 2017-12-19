@@ -24,6 +24,6 @@ public class MemberDAO {
 	}
 
 	public void updateMember() {
-
+		System.out.println("call updateMember!!");
 	}
 }
