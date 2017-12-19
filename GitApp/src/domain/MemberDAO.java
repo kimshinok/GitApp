@@ -28,7 +28,7 @@ public class MemberDAO {
 	}
 
 	public String getMessage() {
-		return null;
+		return "Hello, Git!!";
 	}
 
 }
