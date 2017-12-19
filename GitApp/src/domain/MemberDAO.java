@@ -12,14 +12,12 @@ public class MemberDAO {
 		return dao;
 	}
 	
-	public MemberVO selectMemberById(String id) {
-		return null;
-	}
-
-	
+		
 	public void insertMember() {
 		
 	}
+	
+	
 	
 	
 }
