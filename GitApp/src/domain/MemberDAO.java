@@ -14,7 +14,7 @@ public class MemberDAO {
 		return dao;
 	}
 
-	public MemberVO selectMemberByName(String name) {
+	public MemberVO selectMemberById(String name) {
 		return null;
 	}
 	
