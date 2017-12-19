@@ -26,5 +26,4 @@ public class MemberDAO {
 	public void updateMember() {
 
 	}
-	
 }
