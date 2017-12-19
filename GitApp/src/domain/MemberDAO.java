@@ -26,11 +26,5 @@ public class MemberDAO {
 	public void updateMember() {
 
 	}
-
-
-	public String getMessage() {
-		return "Hello, Git!!";
-	}
-
-
+	
 }
