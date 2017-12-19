@@ -27,8 +27,5 @@ public class MemberDAO {
 
 	}
 
-	public String getMessage() {
-		return null;
-	}
-
+	
 }
