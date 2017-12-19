@@ -19,9 +19,5 @@ public class MemberDAO {
 		return null;
 	}
 
-	public List<MemberVO> selectMemberList() {
-		return new ArrayList();
-	}
-	
-	
+		
 }
