@@ -15,14 +15,20 @@ public class MemberDAO {
 		return dao;
 	}
 
-	
 	public MemberVO selectMemberById(String id) {
 		return null;
 	}
-	
+
 	public List<MemberVO> selectMemberList() {
 		return new ArrayList();
 	}
-	
-	
+
+	public void updateMember() {
+
+	}
+
+	public String getMessage() {
+		return null;
+	}
+
 }
