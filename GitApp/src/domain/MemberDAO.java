@@ -16,4 +16,10 @@ public class MemberDAO {
 		return null;
 	}
 
+	
+	public void insertMember() {
+		
+	}
+	
+	
 }
