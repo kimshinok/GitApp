@@ -23,7 +23,7 @@ public class MemberDAO {
 	}
 	
 	public List<MemberVO> selectMemberList() {
-		return null;
+		return new ArrayList();
 	}
 	
 
