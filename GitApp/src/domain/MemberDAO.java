@@ -22,8 +22,4 @@ public class MemberDAO {
 		return null;
 	}
 
-	public MemberVO selectMemberByEmail(String email) {
-		return null;
-	}
-
 }
