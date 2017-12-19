@@ -1,5 +1,6 @@
 package domain;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class MemberDAO {
@@ -25,8 +26,5 @@ public class MemberDAO {
 	public List<MemberVO> selectMemberList() {
 		return new ArrayList();
 	}
-	
-	
-	
 
 }
