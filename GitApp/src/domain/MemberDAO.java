@@ -17,6 +17,10 @@ public class MemberDAO {
 	public MemberVO selectMemberByName(String name) {
 		return null;
 	}
+	
+	public void insert() {
+		
+	}
 
 	
 }
