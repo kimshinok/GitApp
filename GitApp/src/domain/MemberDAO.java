@@ -16,7 +16,7 @@ public class MemberDAO {
 		return null;
 	}
 	
-	public List<MemberVO> selectMemberByName(String name) {
+	public List<MemberVO> selectMemberByPhone(String phone) {
 		return null;
 	}
 
