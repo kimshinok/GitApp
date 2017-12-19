@@ -14,8 +14,8 @@ public class MemberDAO {
 		return dao;
 	}
 
-	public int insertMember() {
-		return 0;
+	public boolean insertMember() {
+		return true;
 	}
 
 	public MemberVO selectMemberById(String id) {
