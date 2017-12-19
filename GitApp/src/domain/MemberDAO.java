@@ -22,5 +22,9 @@ public class MemberDAO {
 	public List<MemberVO> selectMemberList() {
 		return new ArrayList();
 	}
+	
+	public void modifyMember() {
+		
+	}
 
 }
