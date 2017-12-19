@@ -19,5 +19,8 @@ public class MemberDAO {
 		return null;
 	}
 
-		
+	public MemberVO selectMemberByName(String name) {
+		return null;
+	}
+
 }
