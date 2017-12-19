@@ -23,7 +23,7 @@ public class MemberDAO {
 		return new ArrayList();
 	}
 	
-	public void modifyMember() {
+	public void modifyMember(String id, String pwd) {
 		
 	}
 
