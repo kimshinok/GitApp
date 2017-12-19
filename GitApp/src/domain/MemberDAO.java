@@ -15,10 +15,7 @@ public class MemberDAO {
 		return dao;
 	}
 
-	public boolean insertMember() {
-		return true;
-	}
-
+	
 	public MemberVO selectMemberById(String id) {
 		return null;
 	}
@@ -29,6 +26,10 @@ public class MemberDAO {
 	
 	public void updateMember() {
 		
+	}
+	
+	public String getMessage() {
+	   return null;	
 	}
 
 }
