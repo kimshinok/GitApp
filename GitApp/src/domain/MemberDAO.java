@@ -13,11 +13,7 @@ public class MemberDAO {
 		return dao;
 	}
 
-	public MemberVO retrieveMemberById(String id) {
-		return null;
-	}
-
-	public MemberVO selectMemberByName(String name) {
+	public MemberVO selectMemberById(String id) {
 		return null;
 	}
 
