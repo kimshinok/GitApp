@@ -17,7 +17,11 @@ public class MemberDAO {
 	public MemberVO selectMemberById(String id) {
 		return null;
 	}
-	
+
+	public List<MemberVO> selectMemberByName(String name) {
+		return null;
+	}
+
 	public MemberVO selectMemberByEmail(String email) {
 		return null;
 	}
