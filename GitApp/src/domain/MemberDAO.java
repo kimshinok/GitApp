@@ -14,13 +14,17 @@ public class MemberDAO {
 		return dao;
 	}
 
+
 	public MemberVO selectMemberById(String name) {
+		return null;
+	}	
+		
+	public MemberVO selectMemberByName(String id) {
 		return null;
 	}
 	
 	public void insert() {
 		
 	}
-
 	
 }
